@@ -9,7 +9,9 @@ FCC- first section
 Screenshots:     
 ---
 ![image1](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(61).png)
-![image2](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(62).png)
-      ----
-      live site [Here](https://3omeed.github.io/Survey-Form/)
-      made by [Abdelrahman Emad](https://www.linkedin.com/in/abdelrahman-emad-57bb10237/)
+![image2](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(62).png)    
+    
+links: 
+----
+  live site [Here](https://3omeed.github.io/Survey-Form/)    
+  made by [Abdelrahman Emad](https://www.linkedin.com/in/abdelrahman-emad-57bb10237/)
