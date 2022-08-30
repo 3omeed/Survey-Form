@@ -8,8 +8,8 @@ FCC- first section
      
 Screenshots:     
 ---
-[photo1](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(61).png)
-[photo2](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(62).png)
+![image1](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(61).png)
+![image2](https://github.com/3omeed/Survey-Form/blob/main/screenshots/Screenshot%20(62).png)
 
       
       live site [Here](https://3omeed.github.io/Survey-Form/)
